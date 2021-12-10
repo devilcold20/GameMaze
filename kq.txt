@@ -1,0 +1,14 @@
+
+B da hoan thanh level 1 XUAT SAC !  voi so buoc di la: 44
+ 
+B da hoan thanh level 2  XUAT SAC !  voi so buoc di la: 30
+ 
+B da hoan thanh level 1 XUAT SAC !  voi so buoc di la: 44
+ 
+B da hoan thanh level 3 XUAT SAC !  voi so buoc di la: 34
+ 
+BAO da hoan thanh level 2  XUAT SAC !  voi so buoc di la: 30
+ 
+Lan da hoan thanh level 1 XUAT SAC !  voi so buoc di la: 44
+ 
+Lan da hoan thanh level 2  XUAT SAC !  voi so buoc di la: 30
